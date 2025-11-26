@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "myatv",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2b447619-74d1-4723-8566-9aff7800eaf9",
+      "database_name": "myd1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
